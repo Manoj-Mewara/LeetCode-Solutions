@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0287-find-the-duplicate-number](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1929-concatenation-of-array](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
