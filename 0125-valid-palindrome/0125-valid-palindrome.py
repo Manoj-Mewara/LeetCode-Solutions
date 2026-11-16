@@ -7,6 +7,6 @@ class Solution:
             if i in alphanum:
                 clean = clean + i
         if clean == clean[::-1]:     # Or, direct return clean = clean[::-1]:
-            return True             # Automatically gets True or False
+            return True              # Automatically gets True or False
         else:
             return False
