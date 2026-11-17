@@ -1,6 +1,6 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        alphanum = "abcdefghijklmnopqrstuvwxyz0123456789"
+        alphanum = set("abcdefghijklmnopqrstuvwxyz0123456789")
         s = s.lower()
         clean = ""
         for i in s:
