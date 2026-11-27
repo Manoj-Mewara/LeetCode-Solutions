@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
