@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Manoj-Mewara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
